@@ -9,7 +9,7 @@ Capture facial images using a webcam\
 Store necessary information using the student panel page\
 Train the model with the captured images\
 Perform face detection to mark attendance\
-Automatic attendance logging in a CSV file\
+Automatic attendance logging in a CSV file
 
 # Prerequisites
 To run the Face Recognition Based Attendance System, you need to have the following installed on your system:
